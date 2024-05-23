@@ -47,7 +47,7 @@
     },
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "y8mbqlj1pv",
+    "mbrsiteDomain": "w8w7btpkrx",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -56,6 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "global_after_body": "<script>\nwindow.Futy = { key: '664f30ed15b0e' };\n(function (e, t) {\n    var n = e.createElement(t);\n    n.async = true;\n    var f = window.Promise && window.fetch ? 'modern.js' : 'legacy.js';\n    n.src = 'https://v1.widget.futy.io/js/futy-widget-' + f;\n    var r = e.getElementsByTagName(t)[0];\n    r.parentNode.insertBefore(n, r);\n})(document, 'script');\n</script>",
     "uniqCompNum": 41,
     "versionPublish": "5.9.18"
   },

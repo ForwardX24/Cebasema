@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cebasema",
-    "currentPage": "tegel-showroom.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1123,7 +1123,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<div id=\"wid_1707231924624\"></div>\n[JS_CODE_0]\n\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"wid_1718353854950\"></div>\n[JS_CODE_0]",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 0px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1134,7 +1134,7 @@
           "_anchor": "custom-html-7",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script>\nsc = document.createElement(\"script\");\nsc.setAttribute(\"defer\",true);\nsc.setAttribute(\"src\",\"https://dbwx2z9xa7qt9.cloudfront.net/bundle.js?cachebust=1707231924624\");\nsc.setAttribute(\"theme\",\"light\");\nsc.setAttribute(\"footer\", \"false\"); \nsc.setAttribute(\"widget-type\",\"carousel\");\nsc.setAttribute(\"token\",\"64c112778268556b04fd9e42\");\nsc.setAttribute('apiurl', \"https://server.onlinereviews.tech/api/v0.0.9\");\nsc.setAttribute('stats',\"true\");\nsc.setAttribute('addReview',\"false\");\nsc.setAttribute('profile-pic',\"true\");\nsc.setAttribute('review-name',\"true\");\nsc.setAttribute('wl', \"true\");\nsc.setAttribute('wlndig', \"https://go.reviewchicken.com/cleanpowerrr\");\nsc.setAttribute('lang', \"us\");\nsc.setAttribute('brandStyle', \"%7B%22sidebar_background%22%3A%22%237231BE%22%2C%22sidebar_text%22%3A%22white%22%2C%22brand_button_text_color%22%3A%22white%22%2C%22brand_main_color%22%3A%22%23EE882D%22%2C%22brand_button_border_radius%22%3A%2216px%22%2C%22brand_button_hover%22%3A%22rgb(241%2C%20158%2C%2084)%22%2C%22brand_button_active%22%3A%22rgb(223%2C%20114%2C%2018)%22%2C%22brand_main_color_opacity%22%3A%22%23EE882D1a%22%2C%22brand_font%22%3A%22Montserrat%22%2C%22star_color%22%3A%22%23EE882D%22%2C%22brand_main_background%22%3A%22%23FBF8F6%22%2C%22brand_card_background%22%3A%22white%22%2C%22poweredByLink%22%3A%22https%3A%2F%2Freviewchicken.com%22%2C%22poweredicon%22%3A%22https%3A%2F%2Frecensioni-io-static-folder.s3.eu-central-1.amazonaws.com%2Fpublic_onlinereviews%2Freviews.reviewchicken.com%2Fpowered.png%22%7D\");\ndocument.getElementById(\"wid_1707231924624\").appendChild(sc);\n</script>"
+            "<script>\nsc = document.createElement(\"script\");\nsc.setAttribute(\"defer\",true);\nsc.setAttribute(\"src\",\"https://dbwx2z9xa7qt9.cloudfront.net/bundle.js?cachebust=1718353854950\");\nsc.setAttribute(\"theme\",\"light\");\nsc.setAttribute(\"footer\", \"true\"); \nsc.setAttribute(\"widget-type\",\"carousel\");\nsc.setAttribute(\"token\",\"666bfcb807e319bfc69dc4cb\");\nsc.setAttribute('apiurl', \"https://server.onlinereviews.tech/api/v0.0.9\");\nsc.setAttribute('stats',\"true\");\nsc.setAttribute('addReview',\"true\");\nsc.setAttribute('profile-pic',\"true\");\nsc.setAttribute('review-name',\"true\");\nsc.setAttribute('wl', \"true\");\nsc.setAttribute('wlndig', \"https://go.reviewchicken.com/cebasema-tegelwerken\");\nsc.setAttribute('lang', \"nl\");\nsc.setAttribute('brandStyle', \"%7B%22sidebar_background%22%3A%22%237231BE%22%2C%22sidebar_text%22%3A%22white%22%2C%22brand_button_text_color%22%3A%22white%22%2C%22brand_main_color%22%3A%22%23EE882D%22%2C%22brand_button_border_radius%22%3A%2216px%22%2C%22brand_sidebar_text_color_opacity%22%3A%22%23ffffff1a%22%2C%22brand_button_hover%22%3A%22rgb(241%2C%20158%2C%2084)%22%2C%22brand_button_active%22%3A%22rgb(223%2C%20114%2C%2018)%22%2C%22brand_main_color_opacity%22%3A%22%23EE882D1a%22%2C%22brand_font%22%3A%22Montserrat%22%2C%22star_color%22%3A%22%23EE882D%22%2C%22brand_main_background%22%3A%22%23FBF8F6%22%2C%22brand_card_background%22%3A%22white%22%2C%22poweredByLink%22%3A%22https%3A%2F%2Freviewchicken.com%22%2C%22poweredicon%22%3A%22https%3A%2F%2Frecensioni-io-static-folder.s3.eu-central-1.amazonaws.com%2Fpublic_onlinereviews%2Freviews.reviewchicken.com%2Fpowered.png%22%7D\");\ndocument.getElementById(\"wid_1718353854950\").appendChild(sc);\n</script>"
           ]
         },
         {
